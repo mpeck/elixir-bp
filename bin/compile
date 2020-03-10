@@ -1,7 +1,15 @@
 cd $1
 
-echo "\n\n\nAHHHHH\n\n\n"
-ls .apt/usr/lib
+echo "AHHHHH"
+echo ""
+echo ""
+echo ""
+echo ""
+ls .apt/usr/lib/erlang
+echo ""
+echo ""
+echo ""
+echo ""
 echo "\n\n\nAYYYYY\n\n\n"
 erl -version
 elixir --version
