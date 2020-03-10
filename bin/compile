@@ -1,6 +1,4 @@
 cd $1
-ls
-pwd
 erl -verision
 elixir --version
 make compile
