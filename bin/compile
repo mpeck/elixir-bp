@@ -1,6 +1,8 @@
 cd $1
-cat /etc/apt/sources.list
 
-erl -verision
+echo "\n\n\nAHHHHH\n\n\n"
+ls .apt/usr/lib
+echo "\n\n\nAYYYYY\n\n\n"
+erl -version
 elixir --version
 make compile
