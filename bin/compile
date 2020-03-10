@@ -1,4 +1,6 @@
 cd $1
+cat /etc/apt/sources.list
+
 erl -verision
 elixir --version
 make compile
