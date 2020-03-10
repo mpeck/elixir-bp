@@ -1,5 +1,6 @@
 cd $1
 
+export ERL_TOP=$1
 echo "AHHHHH"
 echo ""
 echo ""
@@ -11,7 +12,6 @@ echo ""
 echo ""
 echo ""
 echo "\n\n\nAYYYYY\n\n\n"
-export ERL_TOP=$1
 erl -version
 elixir --version
 make compile
